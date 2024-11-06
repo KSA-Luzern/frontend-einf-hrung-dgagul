@@ -5,3 +5,21 @@ html, body{
     background-color: aqua;
     font-size: 20;
 }
+
+#gesicht {
+    width: 30%;
+    height: 30%;
+    margin: 0 35%;
+    background-color: yellowgreen;
+    border-radius: 50%;
+}
+
+#augen {
+    display: flex;
+    text-align: center;
+}
+
+#mund {
+    background-color: lime;
+    border-radius: 50%;
+}
